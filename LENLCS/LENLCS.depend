@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1316867354 source:c:\users\inexxt\spoj\lenlcs\main.cpp
+	<cstdio>
+	<iostream>
+

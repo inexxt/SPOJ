@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1318958951 source:c:\users\inexxt\spoj\dzielniki\main.cpp
+	<stdio.h>
+	<vector>
+	<cmath>
+
